@@ -24,6 +24,7 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 - [FTorch](https://github.com/Cambridge-ICCS/FTorch) : Fortran wrapper to directly call PyTorch models for inference.
 - [Fortran-TF-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib) : Fortran wrapper to directly call TensorFlow / Keras models for inference
 - [TorchClim](https://zenodo.org/records/8390519) : Fortran wrapper to call PyTorch models. Also provide an additional layer to ease wrapping in the Community Earth System Model (CESM) framework.
+- [TorchFort](https://github.com/NVIDIA/TorchFort) : Fortran/C/C++ wrapper to call PyTorch model for training and inference. Also wrapp use of NVIDIA GPUs.
 
 ## 4. Leverage high-level couplers Fortran and Python APIs
 
