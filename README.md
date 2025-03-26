@@ -20,8 +20,10 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 
 ## 3. Leverage C/C++ bindings of ML libraries
 
-
-
+- [infero](https://github.com/ecmwf/infero) : Machine learning that runs pre-trained machine learning model for inference. Provides a common interface to multiple inference engines (TensorFlow LITE, TensorFlow C-API, ONNX-Runtime, TensorRT) and can be called from C/C++, Fortran or Python.
+- [FTorch](https://github.com/Cambridge-ICCS/FTorch) : Fortran wrapper to directly call PyTorch models for inference.
+- [Fortran-TF-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib) : Fortran wrapper to directly call TensorFlow / Keras models for inference
+- [TorchClim](https://zenodo.org/records/8390519) : 
 
 ## 4. Leverage high-level couplers Fortran and Python APIs
 
