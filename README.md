@@ -14,8 +14,8 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 
 ## 2. Python scripts from Fortran using Python bindings
 
-
-
+- [forpy](https://github.com/ylikx/forpy) : do not mix up with fortpy ! Fortran module to wrapp and manipulate Python objects (list, dict, numpy arrays...). Allows to import and use Python package or user-defined Python functions. Requires to convert Fortran-variable to Python-variables by hand.
+- [call_py_fort](https://github.com/nbren12/call_py_fort) : Fortran module to call Python functions written in a third Python script. Uses numpy to convert Fortran arrays passed as arguments.
 
 
 ## 3. Leverage C/C++ bindings of ML libraries
