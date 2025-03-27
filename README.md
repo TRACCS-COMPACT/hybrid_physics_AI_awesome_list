@@ -14,7 +14,7 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 
 ## 2. Python scripts from Fortran using Python bindings
 
-- [forpy](https://github.com/ylikx/forpy) : do not mix up with fortpy ! Fortran module to wrapp and manipulate Python objects (list, dict, numpy arrays...). Allows to import and use Python package or user-defined Python functions. Requires to convert Fortran-variable to Python-variables by hand.
+- [forpy](https://github.com/ylikx/forpy) : do not mix up with **fortpy** !! Fortran module to wrapp and manipulate Python objects (list, dict, numpy arrays...). Allows to import and use Python package or user-defined Python functions. Requires to convert Fortran-variable to Python-variables by hand.
 - [call_py_fort](https://github.com/nbren12/call_py_fort) : Fortran module to call Python functions written in a third Python script. Uses numpy to convert Fortran arrays passed as arguments.
 
 
@@ -31,5 +31,5 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 - [smartsim](https://github.com/CrayLabs/SmartSim/tree/master) : Workflow library in which Fortran/C/Python clients can send data to a remote server that executes ML models and scripts on GPU or CPU. 
 - [PhyDLL](https://gitlab.com/cerfacs/phydll) : Coupler with Fortran/C/Python APIs. Allows two (heterogeneously written or not) coupled scripts to exchange data. Built on [CWIPI](https://w3.onera.fr/cwipi/fr).
 - [Eophis](https://github.com/meom-group/eophis) : Python wrapper to ease the deployment and configuration of [OASIS](https://oasis.cerfacs.fr/en/) Python API. OASIS works similarly as PhyDLL and is built on [MCT](https://github.com/quantheory/MCT).
-
+- [ZhangT2025](https://gmd.copernicus.org/articles/18/1917/2025/), [Wang2022](https://gmd.copernicus.org/articles/15/3923/2022/) : Miscellaneous articles with in-house developped coupling interface. 
 
