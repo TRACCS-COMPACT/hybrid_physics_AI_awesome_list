@@ -22,11 +22,14 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 
 - [infero](https://github.com/ecmwf/infero) : Machine learning that runs pre-trained machine learning model for inference. Provides a common interface to multiple inference engines (TensorFlow LITE, TensorFlow C-API, ONNX-Runtime, TensorRT) and can be called from C/C++, Fortran or Python.
 - [FTorch](https://github.com/Cambridge-ICCS/FTorch) : Fortran wrapper to directly call PyTorch models for inference.
-- [Fortran-TF-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib) : Fortran wrapper to directly call TensorFlow / Keras models for inference
+- [Fortran-TF-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib) : Fortran wrapper to directly call TensorFlow / Keras models for inference.
 - [TorchClim](https://zenodo.org/records/8390519) : Fortran wrapper to call PyTorch models. Also provide an additional layer to ease wrapping in the Community Earth System Model (CESM) framework.
 - [TorchFort](https://github.com/NVIDIA/TorchFort) : Fortran/C/C++ wrapper to call PyTorch model for training and inference. Also wrapp use of NVIDIA GPUs.
 
 ## 4. Leverage high-level couplers Fortran and Python APIs
 
+- [smartsim](https://github.com/CrayLabs/SmartSim/tree/master) : Workflow library in which Fortran/C/Python clients can send data to a remote server that executes ML models and scripts on GPU or CPU. 
+- [PhyDLL](https://gitlab.com/cerfacs/phydll) : Coupler with Fortran/C/Python APIs. Allows two (heterogeneously written or not) coupled scripts to exchange data. Built on [CWIPI](https://w3.onera.fr/cwipi/fr).
+- [Eophis](https://github.com/meom-group/eophis) : Python wrapper to ease the deployment and configuration of [OASIS](https://oasis.cerfacs.fr/en/) Python API. OASIS works similarly as PhyDLL and is built on [MCT](https://github.com/quantheory/MCT).
 
 
