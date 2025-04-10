@@ -1,6 +1,6 @@
 # Hybrid Physic / AI methods : awesome list
 
-List of exeisting solutions to create interface between low-level written physic codes and high-level written machine learning models.
+List of sofware solutions to interface between physics based simulation codes with machine learning models for high performance computing.
 
 All listed names have corresponding LaTeX reference for citation in [bibtex file](https://github.com/TRACCS-COMPACT/hybrid_physic_IA_awesmone_list/blob/main/bibtex.bib). Ex: ```\cite{neural-fortran}```
 
