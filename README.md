@@ -4,7 +4,7 @@ List of sofware solutions to interface physics based simulation codes with machi
 
 All listed names have corresponding LaTeX reference for citation in [bibtex file](https://github.com/TRACCS-COMPACT/hybrid_physic_IA_awesmone_list/blob/main/bibtex.bib). Ex: ```\cite{neural-fortran}```
 
-Follow instructions in this [document](https://github.com/TRACCS-COMPACT/hybrid_physic_IA_awesome_list/blob/main/CONTRIBUTING.md) to contribute to the list.
+Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_physic_IA_awesome_list/blob/main/CONTRIBUTING.md) to complete the list with any item that appears relevant to you.
 
 ## 1. Neural Network in Fortran
 
