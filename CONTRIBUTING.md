@@ -1,6 +1,6 @@
 # How to contribute
 
-Contributions to keep the list as exhaustive as possible are welcome. We appreciate the time and efforts you are ready to invest.
+Contributions to keep the list as exhaustive and up-to-date as possible are welcome. We appreciate the time and efforts you are ready to invest.
 
 
 ## Code of Conduct
