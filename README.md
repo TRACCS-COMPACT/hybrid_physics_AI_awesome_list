@@ -8,7 +8,7 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 
 - [neural-fortran](https://github.com/modern-fortran/neural-fortran) : Fortran library, allows creation of NN layers of arbitrary size and structure with several activation functions and stochastic gradient descent, uses Fortran 2018.
 - [inference-engine](https://github.com/BerkeleyLab/fiats) : or ```Fiats```, as neural-fortran but leverage advanced Fortran 2023 features.
-- [Fortran-Keras-Bridge](https://github.com/scientific-computing/FKB) : convert models built and trained in Keras (TensorFlow) to one usables in Fortran, also provide Fortran module to load and use converted model.
+- [Fortran-Keras-Bridge](https://github.com/scientific-computing/FKB) : convert models built and trained in Keras (TensorFlow) to one usables in Fortran, also provide Fortran module to load and use converted models.
 - [FNN](https://github.com/cerea-daml/fnn) : a Fortran module to implement simple, sequential neural network. Can also convert Keras model to FNN-useable model.
 
 
@@ -20,7 +20,7 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 
 ## 3. Leverage C/C++ bindings of ML libraries
 
-- [infero](https://github.com/ecmwf/infero) : Machine learning that runs pre-trained machine learning model for inference. Provides a common interface to multiple inference engines (TensorFlow LITE, TensorFlow C-API, ONNX-Runtime, TensorRT) and can be called from C/C++, Fortran or Python.
+- [infero](https://github.com/ecmwf/infero) : Machine learning support library that runs pre-trained machine learning model for inference. Provides a common interface to multiple inference engines (TensorFlow LITE, TensorFlow C-API, ONNX-Runtime, TensorRT) and can be called from C/C++, Fortran or Python.
 - [FTorch](https://github.com/Cambridge-ICCS/FTorch) : Fortran wrapper to directly call PyTorch models for inference.
 - [Fortran-TF-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib) : Fortran wrapper to directly call TensorFlow / Keras models for inference.
 - [TorchClim](https://zenodo.org/records/8390519) : Fortran wrapper to call PyTorch models. Also provide an additional layer to ease wrapping in the Community Earth System Model (CESM) framework.
