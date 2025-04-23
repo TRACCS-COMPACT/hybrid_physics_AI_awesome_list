@@ -35,3 +35,6 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 - [Eophis](https://github.com/meom-group/eophis) : Python wrapper to ease the deployment and configuration of [OASIS](https://oasis.cerfacs.fr/en/) Python API. OASIS works similarly as PhyDLL and is built on [MCT](https://github.com/quantheory/MCT).
 - [ZhangT2025](https://gmd.copernicus.org/articles/18/1917/2025/), [Wang2022](https://gmd.copernicus.org/articles/15/3923/2022/) : Miscellaneous articles with in-house developped coupling interface. 
 
+## Related list of references
+
+ - [HybridESM Living Review](https://github.com/tbeucler/HybridESM) maintained by Tom Beucle (UNil)
