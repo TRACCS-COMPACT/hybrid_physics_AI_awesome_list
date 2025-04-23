@@ -1,4 +1,4 @@
-# Hybrid Physic / AI methods : awesome list
+# Awesome list of coupling solutions for hybrid earth system modelling 
 
 List of sofware solutions to interface physics based simulation codes with machine learning models for high performance computing.
 
