@@ -35,6 +35,10 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 - [Eophis](https://github.com/meom-group/eophis) : Python wrapper to ease the deployment and configuration of [OASIS](https://oasis.cerfacs.fr/en/) Python API. OASIS works similarly as PhyDLL and is built on [MCT](https://github.com/quantheory/MCT).
 - [ZhangT2025](https://gmd.copernicus.org/articles/18/1917/2025/), [Wang2022](https://gmd.copernicus.org/articles/15/3923/2022/) : Miscellaneous articles with in-house developped coupling interface. 
 
+## 5. Build Python wrappers of ESMs
+
+- [fv3gfs-wrapper](https://github.com/ai2cm/fv3gfs-wrapper) : Python wrapper for the FV3GFS global climate model. The wrapper provides interfaces to progress the Fortran main loop and get/set variables used by the Fortran model to/from the Python environment.
+
 ## Related efforts on GitHub
 
  - [HybridESM Living Review](https://github.com/tbeucler/HybridESM) maintained by Tom Beucler (UNil)
