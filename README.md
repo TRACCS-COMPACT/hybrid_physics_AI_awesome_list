@@ -12,7 +12,7 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 - [inference-engine](https://github.com/BerkeleyLab/fiats) : or ```Fiats```, as neural-fortran but leverage advanced Fortran 2023 features.
 - [Fortran-Keras-Bridge](https://github.com/scientific-computing/FKB) : convert models built and trained in Keras (TensorFlow) to one usables in Fortran, also provide Fortran module to load and use converted models.
 - [FNN](https://github.com/cerea-daml/fnn) : a Fortran module to implement simple, sequential neural network. Can also convert Keras model to FNN-useable model.
-
+- [module_neural_net](https://github.com/ESCOMP/PUMAS) : Single Fortran module for fully connected neural network inference with input/output scaling and optimized matrix multiplications and activations. Depends on BLAS/MKL and NetCDF. Part of NCAR PUMAS (used in CAM).
 
 ## 2. Python scripts from Fortran using Python bindings
 
@@ -24,6 +24,7 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 
 - [infero](https://github.com/ecmwf/infero) : Machine learning support library that runs pre-trained machine learning model for inference. Provides a common interface to multiple inference engines (TensorFlow LITE, TensorFlow C-API, ONNX-Runtime, TensorRT) and can be called from C/C++, Fortran or Python.
 - [FTorch](https://github.com/Cambridge-ICCS/FTorch) : Fortran wrapper to directly call PyTorch models for inference.
+- [pytorch-fortran](https://github.com/alexeedm/pytorch-fortran) : Fortran bindings to PyTorch for inference and training via TorchScript; pass Fortran arrays/tensors, run on CPU or GPU.
 - [Fortran-TF-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib) : Fortran wrapper to directly call TensorFlow / Keras models for inference.
 - [TorchClim](https://zenodo.org/records/8390519) : Fortran wrapper to call PyTorch models. Also provide an additional layer to ease wrapping in the Community Earth System Model (CESM) framework.
 - [TorchFort](https://github.com/NVIDIA/TorchFort) : Fortran/C/C++ wrapper to call PyTorch model for training and inference. Also wrapp use of NVIDIA GPUs.
