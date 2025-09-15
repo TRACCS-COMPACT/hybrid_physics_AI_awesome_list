@@ -23,7 +23,7 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 ## 3. Leverage C/C++ bindings of ML libraries
 
 - [infero](https://github.com/ecmwf/infero) : Machine learning support library that runs pre-trained machine learning models for inference. Provides a common interface to multiple inference engines (TensorFlow LITE, TensorFlow C-API, ONNX-Runtime, TensorRT) and can be called from C/C++, Fortran or Python.
-- [FTorch](https://github.com/Cambridge-ICCS/FTorch) : Fortran wrapper for calling PyTorch models for inference.
+- [FTorch](https://github.com/Cambridge-ICCS/FTorch) : Fortran wrapper for calling PyTorch models for inference. Runs on CPU and Nvidia, Intel, AMD, and Apple GPUs.
 - [pytorch-fortran](https://github.com/alexeedm/pytorch-fortran) : Fortran bindings to PyTorch for inference and training. Passes Fortran arrays/tensors and runs on CPU or GPU. Requires converting PyTorch models to TorchScript, which may be depreciated.
 - [Fortran-TF-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib) : Fortran wrapper for calling TensorFlow / Keras models for inference.
 - [TorchClim](https://zenodo.org/records/8390519) : Fortran wrapper for calling PyTorch models. Also provides an additional layer to ease wrapping in the Community Earth System Model (CESM) framework.
