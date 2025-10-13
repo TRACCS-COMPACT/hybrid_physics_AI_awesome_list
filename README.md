@@ -6,6 +6,9 @@ All listed names have corresponding LaTeX reference for citation in [bibtex file
 
 Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_physic_IA_awesome_list/blob/main/CONTRIBUTING.md) to complete the list with any item that appears relevant to you.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17340356.svg)](https://doi.org/10.5281/zenodo.17340356)
+
+
 ## 1. Neural Network in Fortran
 
 - [neural-fortran](https://github.com/modern-fortran/neural-fortran) : Fortran library that allows the creation of NN layers of arbitrary size and structure with several activation functions and stochastic gradient descent, uses Fortran 2018.
