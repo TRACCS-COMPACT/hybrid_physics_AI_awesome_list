@@ -37,6 +37,7 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 - [smartsim](https://github.com/CrayLabs/SmartSim/tree/master) : Workflow library in which Fortran/C/Python clients can send data to a remote server that executes ML models and scripts on GPUs or CPUs.
 - [PhyDLL](https://gitlab.com/cerfacs/phydll) : Coupler with Fortran/C/Python APIs. Allows two coupled scripts (heterogeneously written or not) to exchange data. Built on [CWIPI](https://w3.onera.fr/cwipi/fr).
 - [Eophis](https://github.com/meom-group/eophis) : Python wrapper to ease the deployment and configuration of [OASIS](https://oasis.cerfacs.fr/en/) Python API. OASIS works similarly as PhyDLL and is built on [MCT](https://github.com/quantheory/MCT).
+- [Arnold2024](https://gmd.copernicus.org/articles/17/4017/2024/) : Study in which the Python and Fortran interfaces of the [YAC](https://nat-esm-system.dkrz.de/Infrastructure/YAC.html) coupler are used for hybrid modeling.
 - [ZhangT2025](https://gmd.copernicus.org/articles/18/1917/2025/), [Wang2022](https://gmd.copernicus.org/articles/15/3923/2022/), [Zhong2023](https://gmd.copernicus.org/articles/16/199/2023/) : Miscellaneous articles with in-house developed coupling interface. 
 
 ## 5. Build Python wrappers of ESMs
