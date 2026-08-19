@@ -12,7 +12,7 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 ## 1. Neural Network in Fortran
 
 - [neural-fortran](https://github.com/modern-fortran/neural-fortran) : Fortran library that allows the creation of NN layers of arbitrary size and structure with several activation functions and stochastic gradient descent, uses Fortran 2018.
-- [inference-engine](https://github.com/BerkeleyLab/fiats) : or ```Fiats```, as neural-fortran but leverage advanced Fortran 2023 features.
+- [Fiats](https://github.com/BerkeleyLab/fiats) : formerly ```inference-engine```, as neural-fortran but leverage advanced Fortran 2023 features.
 - [Fortran-Keras-Bridge](https://github.com/scientific-computing/FKB) : converts models built and trained in Keras (TensorFlow) to ones usable in Fortran, also provides a Fortran module to load and use converted models.
 - [FNN](https://github.com/cerea-daml/fnn) : a Fortran module to implement simple, sequential neural networks. Can also convert Keras models to FNN-usable model.
 - [module_neural_net](https://github.com/ESCOMP/PUMAS) : Single Fortran module for fully connected neural network inference with input/output scaling and optimized matrix multiplications and activations. Depends on BLAS/MKL and NetCDF. Part of NCAR PUMAS (used in CAM).
