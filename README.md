@@ -40,7 +40,7 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 - [Eophis](https://github.com/meom-group/eophis) : Python wrapper to ease the deployment and configuration of [OASIS](https://oasis.cerfacs.fr/en/) Python API. OASIS works similarly to PhyDLL and is built on [MCT](https://github.com/quantheory/MCT).
 - [Arnold2024](https://gmd.copernicus.org/articles/17/4017/2024/) : Study in which the Python and Fortran interfaces of the [YAC](https://nat-esm-system.dkrz.de/Infrastructure/YAC.html) coupler are used for hybrid modeling.
 - [ZhangT2025](https://gmd.copernicus.org/articles/18/1917/2025/), [Wang2022](https://gmd.copernicus.org/articles/15/3923/2022/), [Zhong2023](https://gmd.copernicus.org/articles/16/199/2023/) : Miscellaneous articles with in-house developed coupling interface.
-
+- [GeoGate](https://github.com/geogate-io/GeoGate) : Generic co-processing component built on ESMF/NUOPC to couple physics-based models with ML models written in Python. Uses the Conduit library for zero-copy data exchange. Applied to hybrid ESMs in [Turuncoglu and Bruinsma, 2026](https://doi.org/10.22541/essoar.15002925/v1).
 
 ## 5. Build Python wrappers of ESMs
 
