@@ -45,6 +45,7 @@ Follow [contriburing instructions](https://github.com/TRACCS-COMPACT/hybrid_phys
 ## 5. Build Python wrappers of ESMs
 
 - [fv3gfs-wrapper](https://github.com/ai2cm/fv3gfs-wrapper) : Python wrapper for the FV3GFS global climate model. The wrapper provides interfaces to advance the Fortran main loop and get/set variables used by the Fortran model to/from the Python environment.
+- [Aronnax](https://github.com/IGE-OPERA/Aronnax) : Python wrapper for the ocean general circulation model [NEMO5](https://nemo-ocean.eu/).
 
 ## Related efforts on GitHub
 
